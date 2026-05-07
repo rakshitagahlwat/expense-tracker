@@ -61,6 +61,7 @@ git clone https://github.com/rakshitagahlwat/expense-tracker.git
 
 ## 🌐 Live Demo
 
+https://rakshitagahlwat.github.io/expense-tracker/
 
 ## 📸 Preview
 
